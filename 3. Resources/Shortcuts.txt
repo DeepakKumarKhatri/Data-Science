@@ -1,0 +1,19 @@
+Shift + Enter: Run the current cell and select the next cell.
+
+Ctrl + Enter: Run the current cell.
+
+Alt + Enter: Run the current cell and insert a new cell below.
+
+Ctrl + S: Save the current notebook.
+
+Ctrl + Shift + -: Split the current cell into two cells.
+
+Ctrl + Shift + P: Open the command palette to access various Jupyter Notebook commands.
+
+Ctrl + /: Comment or uncomment the selected lines.
+
+Tab: Code completion.
+
+Shift + Tab: Show the method signature and documentation for the selected object.
+
+Ctrl + Shift + Up/Down: Move the current cell up or down.
