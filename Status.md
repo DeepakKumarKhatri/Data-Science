@@ -1,5 +1,14 @@
 ## Topics To-Do and Completed to Far
 - [ ] Python Basis
     - [x] Why Python
-    - [x] Print, data types, variables, typecasting, keywords, input-output, literals~~
-
+    - [x] Print, data types, variables, typecasting, keywords, input-output, literals
+    - [x] Operators
+      - [x] Arithmetic Operators
+      - [x] Relational Operators
+      - [x] Logical Operators
+      - [x] Bitwise Operators
+      - [x] Assignment Operators
+      - [x] Membership Operators
+    - [x] Loops
+      - [x] While
+      - [x] For
